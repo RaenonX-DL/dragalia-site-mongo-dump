@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"u":{"$numberInt":"1"}},"name":"u_1","expireAfterSeconds":{"$numberInt":"2592000"}}],"uuid":"9e486d024d82445f9fbdf462ef09b404","collectionName":"atkSkill","type":"collection"}
